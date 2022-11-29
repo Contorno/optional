@@ -1,3 +1,3 @@
-module github.com/Contorno/optional
+module github.com/contorno/optional
 
 go 1.13
